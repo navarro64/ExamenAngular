@@ -1,0 +1,5 @@
+C:\Users\ivi\source\repos\ExamenAngular_15\GlobalVValues\bin\Release\GlobalVValues.dll
+C:\Users\ivi\source\repos\ExamenAngular_15\GlobalVValues\bin\Release\GlobalVValues.pdb
+C:\Users\ivi\source\repos\ExamenAngular_15\GlobalVValues\obj\Release\GlobalVValues.csproj.CoreCompileInputs.cache
+C:\Users\ivi\source\repos\ExamenAngular_15\GlobalVValues\obj\Release\GlobalVValues.dll
+C:\Users\ivi\source\repos\ExamenAngular_15\GlobalVValues\obj\Release\GlobalVValues.pdb

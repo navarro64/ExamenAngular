@@ -1,0 +1,5 @@
+C:\Users\ivi\source\repos\ExamenAngular_15\InterfacesLibs\bin\Debug\InterfacesLibs.dll
+C:\Users\ivi\source\repos\ExamenAngular_15\InterfacesLibs\bin\Debug\InterfacesLibs.pdb
+C:\Users\ivi\source\repos\ExamenAngular_15\InterfacesLibs\obj\Debug\InterfacesLibs.csproj.CoreCompileInputs.cache
+C:\Users\ivi\source\repos\ExamenAngular_15\InterfacesLibs\obj\Debug\InterfacesLibs.dll
+C:\Users\ivi\source\repos\ExamenAngular_15\InterfacesLibs\obj\Debug\InterfacesLibs.pdb

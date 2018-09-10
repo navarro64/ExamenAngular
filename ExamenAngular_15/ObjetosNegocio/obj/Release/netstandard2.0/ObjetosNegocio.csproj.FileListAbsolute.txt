@@ -1,0 +1,9 @@
+C:\Users\ivi\source\repos\ExamenAngular_15\ObjetosNegocio\bin\Release\netstandard2.0\ObjetosNegocio.deps.json
+C:\Users\ivi\source\repos\ExamenAngular_15\ObjetosNegocio\bin\Release\netstandard2.0\ObjetosNegocio.dll
+C:\Users\ivi\source\repos\ExamenAngular_15\ObjetosNegocio\bin\Release\netstandard2.0\ObjetosNegocio.pdb
+C:\Users\ivi\source\repos\ExamenAngular_15\ObjetosNegocio\obj\Release\netstandard2.0\ObjetosNegocio.csproj.CoreCompileInputs.cache
+C:\Users\ivi\source\repos\ExamenAngular_15\ObjetosNegocio\obj\Release\netstandard2.0\ObjetosNegocio.AssemblyInfoInputs.cache
+C:\Users\ivi\source\repos\ExamenAngular_15\ObjetosNegocio\obj\Release\netstandard2.0\ObjetosNegocio.AssemblyInfo.cs
+C:\Users\ivi\source\repos\ExamenAngular_15\ObjetosNegocio\obj\Release\netstandard2.0\ObjetosNegocio.dll
+C:\Users\ivi\source\repos\ExamenAngular_15\ObjetosNegocio\obj\Release\netstandard2.0\ObjetosNegocio.pdb
+C:\Users\ivi\source\repos\ExamenAngular_15\ObjetosNegocio\obj\Release\netstandard2.0\ObjetosNegocio.csprojAssemblyReference.cache

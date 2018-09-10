@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAfpindKJKSU2M9TrjlKY9pQAAAAACAAAAAAAQZgAAAAEAACAAAACdTHCt2IaHYVnDxneHzBs4kfM0Z4fwzQUWOJDze2RiIQAAAAAOgAAAAAIAACAAAACScB7V1xqm5KOUjpF2AHZZpMjEcqKpsh2TqLjTbnjDDyAAAABxEuTaJbsQI8C/3lEqAgRkLxxBOyTwUvcJt70IHRvzpkAAAAA/+5SgODyQszoWSDHzOQDNU02BRT627S6CT6yUTVVj7Gnd/Dg2VuVmvtX2qQe3mY2Coa4NkmuSYgpJfjB2lj2e</EncryptedPassword>
+    <_PublishTargetUrl>ftp://files.000webhost.com/examenangular.000webhostapp.com</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>09/08/2018 13:11:16</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>09/10/2013 16:29:20</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.pdb">
+      <publishTime>09/10/2013 16:29:20</publishTime>
+    </File>
+    <File Include="bin/Api_Wheatear.dll">
+      <publishTime>09/09/2018 19:35:06</publishTime>
+    </File>
+    <File Include="bin/Api_Wheatear.pdb">
+      <publishTime>09/09/2018 19:35:06</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>09/08/2018 13:11:16</publishTime>
+    </File>
+    <File Include="bin/ExamenAngular_15.dll">
+      <publishTime>09/09/2018 19:57:44</publishTime>
+    </File>
+    <File Include="bin/ExamenAngular_15.pdb">
+      <publishTime>09/09/2018 19:57:44</publishTime>
+    </File>
+    <File Include="bin/GlobalVValues.dll">
+      <publishTime>09/09/2018 19:35:05</publishTime>
+    </File>
+    <File Include="bin/GlobalVValues.pdb">
+      <publishTime>09/09/2018 19:35:05</publishTime>
+    </File>
+    <File Include="bin/InterfacesLibs.dll">
+      <publishTime>09/09/2018 19:35:05</publishTime>
+    </File>
+    <File Include="bin/InterfacesLibs.pdb">
+      <publishTime>09/09/2018 19:35:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>06/27/2017 12:59:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>02/22/2018 16:25:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>02/22/2018 16:36:44</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>02/22/2018 14:39:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>02/22/2018 16:35:08</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>09/08/2018 13:10:09</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>09/08/2018 13:10:09</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/09/2018 19:57:50</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\ivi\source\repos\ExamenAngular_15\Api_Wheatear\bin\Debug\Api_Wheatear.dll
+C:\Users\ivi\source\repos\ExamenAngular_15\Api_Wheatear\bin\Debug\Api_Wheatear.pdb
+C:\Users\ivi\source\repos\ExamenAngular_15\Api_Wheatear\obj\Debug\Api_Wheatear.csproj.CoreCompileInputs.cache
+C:\Users\ivi\source\repos\ExamenAngular_15\Api_Wheatear\obj\Debug\Api_Wheatear.dll
+C:\Users\ivi\source\repos\ExamenAngular_15\Api_Wheatear\obj\Debug\Api_Wheatear.pdb
+C:\Users\ivi\source\repos\ExamenAngular_15\Api_Wheatear\bin\Debug\GlobalVValues.dll
+C:\Users\ivi\source\repos\ExamenAngular_15\Api_Wheatear\bin\Debug\GlobalVValues.pdb
+C:\Users\ivi\source\repos\ExamenAngular_15\Api_Wheatear\obj\Debug\Api_Wheatear.csprojAssemblyReference.cache
+C:\Users\ivi\source\repos\ExamenAngular_15\Api_Wheatear\obj\Debug\Api_Wheatear.csproj.CopyComplete
+C:\Users\ivi\source\repos\ExamenAngular_15\Api_Wheatear\bin\Debug\InterfacesLibs.dll
+C:\Users\ivi\source\repos\ExamenAngular_15\Api_Wheatear\bin\Debug\InterfacesLibs.pdb

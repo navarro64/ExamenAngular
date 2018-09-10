@@ -1,0 +1,66 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script> 
+
+<script src="~/ContExtra/framework/angular-1.6.10/angular.js"></script>
+<script src="~/ContExtra/framework/angular-1.6.10/angular.min.js"></script>
+
+<div ng-app="myApp" ng-controller="myCtrl"> 
+    <form>
+        <div class="row">
+            <div class="jumbotron">
+                <div width="30%" height="30%">
+                    <canvas id="line-chart"></canvas>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-4">
+                <h2>City</h2>
+                <select class="form-control" ng-model="citySelect"  ng-change="obtenParametros()">
+                    <option value="cajeme">Obregon</option>
+                    <option value="navojoa">Navojoa</option>
+                    <option value="hermosillo">Hermosillo</option>
+                    <option value="Ruben Martínez Fimbres">Nogales</option>
+                </select>
+            </div>
+            <div class="col-md-4">
+                <h2>Scale</h2>
+                <select class="form-control" ng-model="tipoMedicion" ng-change="CambioTemperatura()">
+                    <option value="Celsius">Celsius</option>
+                    <option value="Fahrenheit">Fahrenheit</option>
+                </select>
+            </div>
+            <div class="col-md-4">
+                <h2>Date</h2>
+                <input class="form-control" type="date" name="bday" min="2000-01-02" ng-model="datevalue"  ng-change="obtenParametros()">
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-md-12">
+                <h2>History</h2>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Date (aaaa-mm-dd)</th>
+                            <th>Temperature</th>
+                        </tr>
+                    </thead>
+                    <tbody >
+                        <tr ng-repeat="x in ListaVertical.listaFechas  ">
+                            <td>[[[x ]]]</td>
+                            <td>[[[ListaVertical.listaTemp[$index] ]]]</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </form>
+</div> 
+
+<script src="~/ContExtra/Cont_Index/CasteoFormat.js"></script>
+<script src="~/ContExtra/Cont_Index/NegociolTabla.js"></script>
+<script src="~/ContExtra/Cont_Index/ContIndexJS.js"></script>
